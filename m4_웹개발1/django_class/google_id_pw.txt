@@ -1,0 +1,19 @@
+클라이언트 ID
+570854736490-losiase6aa094a0t70ejn2nrjh9bcng7.apps.googleusercontent.com
+
+클라이언트 보안 비밀번호
+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
+
+
+
+
+
+
+
+
+
+클라이언트 ID
+261706656794-3r5e1ej6j47jgs3fe8eqhkhbb85c7nda.apps.googleusercontent.com
+
+클라이언트 보안 비밀번호
+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
