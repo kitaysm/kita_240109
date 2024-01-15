@@ -1,0 +1,36 @@
+body {
+    background-color: black;
+}
+button {
+    font-size : 1em;
+    font-weight : 700;
+    margin-bottom: 0.5em;
+    text-align: center;
+    color : white
+}
+ul {
+    font-size : 1em;
+    font-weight : 700;
+    margin-bottom : 0.5em;
+    text-align: center;
+    color : white
+}
+li {
+    font-size : 1em;
+    font-weight : 500;
+    margin-bottom : 0.5em;
+    text-align: center;
+    color : white
+}
+h1 {
+    font-size : 3em;
+    font-weight : 500;
+    margin-bottom : 0.5em;
+    color : white
+}
+p {
+    font-size : 10px;
+    font-weight : 500;
+    margin-bottom : 0.5em;    
+    color : white
+}

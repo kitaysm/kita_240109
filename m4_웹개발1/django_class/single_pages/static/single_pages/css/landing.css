@@ -1,0 +1,17 @@
+body {
+    background: url('/static/single_pages/images/hriver.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+h3 {
+    font-size : 2.5em;
+    font-weight : 700;
+    margin-bottom: 0.5em;
+}
+h1 {
+    font-size : 3em;
+    font-weight : 700;
+    margin-bottom : 0.5em;
+}
